@@ -151,7 +151,7 @@ set www disabled=yes
 set ssh disabled=yes
 set api disabled=yes
 set api-ssl disabled=yes
-set winbox port=1530
+set winbox port=[Escolha sua porta]
 
 # ============================================
 # 15. AJUSTES FINAIS
@@ -168,7 +168,7 @@ set winbox port=1530
 :put "========================================="
 :put "REDE ADMIN: 10.8.0.1/23 (DHCP ativo)"
 :put "REDE CLIENTES: 10.7.0.1/23 (DHCP ativo)"
-:put "WINBOX PORTA: 1530"
+:put "WINBOX PORTA: [Porta Escolhida]"
 :put "PPPoE: configurado na interface pppoe-out1"
 :put "========================================="
 :put "ANTES DE USAR:"
