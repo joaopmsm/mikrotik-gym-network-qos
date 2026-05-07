@@ -157,7 +157,7 @@ set winbox port=[Escolha sua porta]
 # 15. AJUSTES FINAIS
 # ============================================
 /system clock set time-zone-name=America/Sao_Paulo
-/system identity set name="RB-POINT-ESTRELA"
+/system identity set name="NOME-DA-SUA-RB"
 /system package update set channel=long-term
 
 # ============================================
